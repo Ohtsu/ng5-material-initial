@@ -27,11 +27,11 @@ _全ソース_
 
    - @angular/cdk (Step1)
 
-   - @angular/animations (Step2)
+   - @angular/animations ('src/app/app.module.ts' ファイルの修正を含む) (Step2)
 
    - デフォルト・テーマ(indigo.pink.css)のstyles.cssファイルへの追加 (step4)
 
-   - hammerjs ('src/main.ts'ファイルの変更をふくむ) (step5)
+   - hammerjs ('src/main.ts'ファイルの変更を含む) (step5)
 
    - 公式のMaterial Design Iconsの追加 ('index.html'ファイルの変更) (Step6) 
 

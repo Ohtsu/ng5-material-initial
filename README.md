@@ -27,7 +27,7 @@ The following "Step" number is based on the page. But the step 3 is not included
 
    - @angular/cdk (Step1)
 
-   - @angular/animations (Step2)
+   - @angular/animations (including the modification of 'src/app/app.module.ts' file) (Step2)
 
    - Add default theme(indigo.pink.css) to styles.css file (step4)
 
