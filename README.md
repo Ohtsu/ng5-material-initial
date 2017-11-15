@@ -3,7 +3,7 @@
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 
-_ng5-material-initial_ is an Angular5 initial project for programmers who want to start up Angular Meterial easily.
+_ng5-material-initial_ is an Angular5 initial project for programmers who want to start up Angular Material easily.
 
 _Video Explanation_
 <Under construction https://youtu.be/>
