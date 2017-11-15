@@ -13,7 +13,7 @@ _全ソース_
 
 ## 概要 
     
-まず、以下の _Agular Material_ サイトの_Getting started_ ページを参照してください。 
+まず、以下の _Angular Material_ サイトの_Getting started_ ページを参照してください。 
     
 <https://material.angular.io/guide/getting-started>
  

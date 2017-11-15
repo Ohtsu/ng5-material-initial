@@ -13,7 +13,7 @@ _Full Source Code_
 
 ## Overview 
     
-At first, please refer to "Agular Material Getting started" page as follows. 
+At first, please refer to "Angular Material Getting started" page as follows. 
     
 <https://material.angular.io/guide/getting-started>
  
