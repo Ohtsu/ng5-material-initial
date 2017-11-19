@@ -6,7 +6,7 @@
 _ng5-material-initial_ はAngular5でAngular Meterialを利用したいと考えているプログラマのための簡単初期設定プロジェクトです。
 
 _ビデオ解説_
-<準備中　https://youtu.be/>
+<https://youtu.be/ttLh47qv9pk>
 
 _全ソース_
 <https://github.com/Ohtsu/ng5-material-initial>
@@ -129,7 +129,7 @@ $ ng serve
   - ***初期画面*** 
 
   <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-i18n-demo/ng5-i18n-demo_en-page_01.png" width= "640" >
-
+ 
 
 #### ローカルサーバの停止
 
@@ -169,3 +169,5 @@ copyright 2017 by Shuichi Ohtsu (DigiPub Japan)
 ## ライセンス
 
 MIT © [Shuichi Ohtsu](ohtsu@digipub-net.com)
+
+

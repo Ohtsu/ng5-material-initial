@@ -6,7 +6,7 @@
 _ng5-material-initial_ is an Angular5 initial project for programmers who want to start up Angular Material easily.
 
 _Video Explanation_
-<Under construction https://youtu.be/>
+<https://youtu.be/ttLh47qv9pk>
 
 _Full Source Code_
 <https://github.com/Ohtsu/ng5-material-initial>
